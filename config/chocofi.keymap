@@ -48,10 +48,10 @@
 
         base_layer {
             bindings = <
-  &kp Q  &kp W  &kp E    &kp R      &kp T         &kp Y        &kp U          &kp I        &kp O      &kp P
-  &kp A  &kp S  &kp D    &kp F      &kp G         &kp H        &kp J          &kp K        &kp L      &kp COMMA
-  &kp Z  &kp X  &kp C    &kp V      &kp B         &kp N        &kp M          &kp FSLH     &kp COMMA  &kp DOT
-                &kp ESC  &kp SPACE  &kp ESCAPE    &lt SYM RET  &kp BACKSPACE  &lt FUN DEL
+  &kp Q  &kp W  &kp E  &kp R  &kp T    &kp Y  &kp U  &kp I     &kp O      &kp P
+  &kp A  &kp S  &kp D  &kp F  &kp G    &kp H  &kp J  &kp K     &kp L      &kp COMMA
+  &kp Z  &kp X  &kp C  &kp V  &kp B    &kp N  &kp M  &kp FSLH  &kp COMMA  &kp DOT
+                &kp F  &kp E  &kp D    &kp A  &kp B  &kp C
             >;
         };
 
